@@ -37,13 +37,7 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.3'
-          bundler-cache: false
-
-      - name: Install gems
-        run: |
-          bundle lock --add-platform x86_64-linux
-          bundle lock --add-platform ruby
-          bundle install
+          bundler-cache: true
 
       - name: Update RubyGems
         run: gem update --system
