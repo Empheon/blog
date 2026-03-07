@@ -1,0 +1,23 @@
+{% assign galleries = include.galleries | default: site.data[page.gallery] %}
+
+{% for gallery in galleries %}
+{% if gallery.title %}
+<h2 class="title is-4">{{ gallery.title }}</h2>
+{% endif %}
+
+<div class="columns is-multiline">
+    {% for image in gallery.images %}
+    {% assign ratio = image.ratio | default: "is-16by9" %}
+    <div class="column is-one-third-desktop is-half-tablet is-full-mobile">
+        <a href="{{ image.url | relative_url }}">
+            <figure class="image {{ ratio }}">
+                <img src="{{ image.link | relative_url }}" alt="{{ image.alt }}">
+            </figure>
+        </a>
+        {% if image.description %}
+        <div class="content mt-2">{{ image.description | markdownify }}</div>
+        {% endif %}
+    </div>
+    {% endfor %}
+</div>
+{% endfor %}

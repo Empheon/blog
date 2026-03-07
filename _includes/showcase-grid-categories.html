@@ -1,0 +1,62 @@
+{% assign keys = page.showcase_categories %}
+
+{% for key in keys %}
+{% assign data = site.data[key] %}
+{% assign items = data.items | default: data %}
+
+{% if data.title %}
+<h2 class="title is-3">{{ data.title }}</h2>
+{% endif %}
+
+{% if data.intro %}
+<div class="content mb-5">{{ data.intro | markdownify }}</div>
+{% endif %}
+
+<div class="columns is-multiline">
+    {% for item in items %}
+    <div class="column is-one-fifth-desktop is-half-tablet is-full-mobile">
+        <div class="card">
+
+            {% if item.image %}
+            {% assign ratio = item.image_ratio | default: "is-16by9" %}
+            <div class="card-image">
+                {% if item.link %}<a href="{{ item.link }}" aria-label="{{ item.title }}">{% endif %}
+                    <figure class="image {{ ratio }}">
+                        <img src="{{ item.image | relative_url }}" alt="{{ item.title }}">
+                    </figure>
+                    {% if item.link %}
+                </a>{% endif %}
+            </div>
+            {% endif %}
+
+            <div class="card-content">
+                <p class="title is-5">{{ item.title }}</p>
+                {% if item.subtitle %}
+                <p class="subtitle is-6">{{ item.subtitle }}</p>
+                {% endif %}
+
+                {% if item.description %}
+                <div class="content">
+                    {{ item.description | markdownify }}
+                </div>
+                {% endif %}
+
+                {% if item.tags %}
+                <div class="tags mt-2">
+                    {% assign tags = item.tags | split: "," %}
+                    {% for t in tags %}
+                    <span class="tag is-light">{{ t | strip }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
+            </div>
+
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+{% unless forloop.last %}
+<hr class="my-6">
+{% endunless %}
+{% endfor %}

@@ -1,0 +1,117 @@
+title: Personal
+intro: |-
+  Some games I created as a student or on my free time. You can find more on my <a href="https://thfoucault.itch.io/">Itch.io profile</a>.
+items:
+  - title: Along the Rift
+    subtitle: Help Maya fight her fears in this narrative adventure.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;February 2022</span>
+      </div>
+
+      <a target="_blank" href="https://paulkessel.itch.io/alongtherift">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/along-the-rift-logo.jpg
+    image_ratio: is-1by1
+    link: https://paulkessel.itch.io/alongtherift
+    link_text: Along the Rift
+    tags: Student, PC, Unreal Engine
+
+  - title: Rustle
+    subtitle: Experience a spooky campfire night with your best friend.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;June 2021</span>
+      </div>
+
+      <a target="_blank" href="https://antoine-ramo.itch.io/rustle">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/rustle-logo.jpg
+    image_ratio: is-1by1
+    link: https://antoine-ramo.itch.io/rustle
+    link_text: Rustle
+    tags: Student, VR, Unreal Engine
+
+  - title: Pirate Bay
+    subtitle: A treasure-chest-throwing multiplayer game. 
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;January 2021</span>
+      </div>
+
+      <a target="_blank" href="https://pandamnesik.itch.io/pirate-bay">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/pirate-bay-logo.jpg
+    image_ratio: is-1by1
+    link: https://pandamnesik.itch.io/pirate-bay
+    link_text: Pirate Bay
+    tags: Game Jam, PC, Unreal Engine, Online Multiplayer
+
+  - title: Mad Mice
+    subtitle: Mice duel with steampunk fortress-machines. As crazy as it sounds.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;December 2020</span>
+      </div>
+
+      <a target="_blank" href="https://raychop.itch.io/mad-mice">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/mad-mice-logo.jpg
+    image_ratio: is-1by1
+    link: https://raychop.itch.io/mad-mice
+    link_text: Mad Mice
+    tags: Student, PC, Unity, Local Multiplayer
+
+  - title: The Carpenter
+    subtitle: A fun infinite runner where you slide downhill on your butt.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;October 2019</span>
+      </div>
+
+      <a target="_blank" href="https://pandamnesik.itch.io/the-carpenter">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/the-carpenter-logo.jpg
+    image_ratio: is-1by1
+    link: https://pandamnesik.itch.io/the-carpenter
+    link_text: The Carpenter
+    tags: Game Jam, PC, Unity
+
+  - title: Live. Die. Repeat.
+    subtitle: Duel game where your past self is your ally.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;April 2019</span>
+      </div>
+
+      <a target="_blank" href="https://oscarbagger.itch.io/livedierepeat">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/live-die-repeat-logo.jpg
+    image_ratio: is-1by1
+    link: https://oscarbagger.itch.io/livedierepeat
+    link_text: Live Die Repeat
+    tags: Game Jam, PC, Unity, Local Multiplayer
+
+  - title: Flowar
+    subtitle: One of my first ever games. A very tiny 4X game.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;January 2018</span>
+      </div>
+
+      <a target="_blank" href="https://delvatron.itch.io/flowar">
+        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/flowar-logo.jpg
+    image_ratio: is-1by1
+    link: https://delvatron.itch.io/flowar
+    link_text: Flowar
+    tags: Game Jam, PC, Unity
+
+

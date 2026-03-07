@@ -1,0 +1,35 @@
+---
+---
+$primary: #ffbf69;
+$dimensions: 16 24 32 48 64 96 128 256;
+//$scheme-main: #ee0000;
+//$scheme-main-bis: #ee0000;
+//$scheme-main-ter: #ee0000;
+//$scheme-invert: #ee0000;
+//$scheme-invert-bis: #ee0000;
+//$scheme-invert-ter: #ee0000;
+//$background: #ee0000;
+// Import Main CSS file from theme
+@import "main";
+
+//.hero.is-primary .title {
+//--bulma-title-color: #eee7d8;
+//--bulma-title-strong-color: #eee7d8;
+//}
+//
+//.hero.is-primary .subtitle {
+//--bulma-subtitle-color: #eee7d8;
+//--bulma-subtitle-strong-color: #eee7d8;
+//}
+//
+//.button {
+//color: #eee7d8;
+//}
+//
+//.navbar-item, .navbar-link {
+//color: #eee7d8;
+//}
+
+//:root {
+//--bulma-body-background-color: #eee7d8;
+//}

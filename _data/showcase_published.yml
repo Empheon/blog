@@ -1,0 +1,100 @@
+title: Published
+intro: |- 
+  Here are the commercial games I worked on.
+items:
+  - title: Beast Barber
+    subtitle: Giant animals shaver simulator.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;January 2026</span>
+      </div>
+
+      <a target="_blank" href="https://poki.com/en/g/beast-barber">
+        <img src="/assets/img/poki-badge_dark.svg" alt="Play on Poki" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/beast-barber-logo.jpg
+    image_ratio: is-1by1
+    link: https://poki.com/en/g/beast-barber
+    link_text: Beast Barber
+    tags: Petit Kyanpu, Web, Playcanvas
+
+  - title: Jetpack Fury
+    subtitle: Jetpacks on animals, what could go wrong?
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;August 2025</span>
+      </div>
+      <a target="_blank" href="https://poki.com/en/g/jetpack-fury">
+        <img src="/assets/img/poki-badge_dark.svg" alt="Play on Poki" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/jetpack-fury-logo.jpg
+    image_ratio: is-1by1
+    link: https://poki.com/en/g/jetpack-fury
+    link_text: Jetpack Fury
+    tags: Petit Kyanpu, Web, Unity
+
+  - title: Zombie Defense
+    subtitle: Survive waves of zombies as you build up your base.
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;June 2022</span>
+        <span class="tag is-light"><strong>Downloads:</strong>&nbsp;30M+</span>
+        <span class="tag is-light"><strong>Rating:</strong>&nbsp;4.4 ★</span>
+      </div>
+
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yorfstudio.zdefense">
+        <img src="/assets/img/google-play-badge.svg" alt="Get it on Google Play" style="height:48px; width:auto;">
+      </a>
+      <a target="_blank" href="https://apps.apple.com/us/app/z-defense-zombie-games/id1628327332">
+        <img src="/assets/img/app-store-badge.svg" alt="Download on the App Store" style="height:48px; width:auto;">
+      </a>
+
+    image: /assets/img/zombie-defense-logo.jpg
+    image_ratio: is-1by1
+    link: https://play.google.com/store/apps/details?id=com.yorfstudio.zdefense
+    link_text: Zombie Defense
+    tags: Yorf Studio, Mobile, Unity
+
+  - title: Zookemon
+    subtitle: Go on an adventure and collect animals!
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;October 2021</span>
+        <span class="tag is-light"><strong>Downloads:</strong>&nbsp;20M+</span>
+        <span class="tag is-light"><strong>Rating:</strong>&nbsp;4.5 ★</span>
+      </div>
+
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yorfstudio.zookemon">
+        <img src="/assets/img/google-play-badge.svg" alt="Get it on Google Play" style="height:48px; width:auto;">
+      </a>
+      <a target="_blank" href="https://apps.apple.com/us/app/zookemon/id1593869420">
+        <img src="/assets/img/app-store-badge.svg" alt="Download on the App Store" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/zookemon-logo.jpg
+    image_ratio: is-1by1
+    link: https://play.google.com/store/apps/details?id=com.yorfstudio.zookemon
+    link_text: Zookemon
+    tags: Yorf Studio, Mobile, Unity
+
+  - title: Z Escape
+    subtitle: Help survivors escape from the zombie outbreak!
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;March 2021</span>
+        <span class="tag is-light"><strong>Downloads:</strong>&nbsp;30M+</span>
+        <span class="tag is-light"><strong>Rating:</strong>&nbsp;4.2 ★</span>
+      </div>
+
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yorfstudio.sea">
+        <img src="/assets/img/google-play-badge.svg" alt="Get it on Google Play" style="height:48px; width:auto;">
+      </a>
+      <a target="_blank" href="https://apps.apple.com/us/app/z-escape-zombie-crowd-shooter/id1556515742">
+        <img src="/assets/img/app-store-badge.svg" alt="Download on the App Store" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/z-escape-logo.jpg
+    image_ratio: is-1by1
+    link: https://play.google.com/store/apps/details?id=com.yorfstudio.sea
+    link_text: Z Escape
+    tags: Yorf Studio, Mobile, Unity 
+
+

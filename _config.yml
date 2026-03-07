@@ -1,1 +1,29 @@
 theme: bulma-clean-theme
+force_theme: light
+lang: en
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+
+paginate: 5
+paginate_path: "/blog/page/:num/"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      author: "Thomas"
+      layout: post
+      show_sidebar: true
