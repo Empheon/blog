@@ -13,7 +13,7 @@ show_sidebar: false
 <section class="section">
     <div class="container has-text-centered">
         <figure class="image is-256x256" style="margin: 0 auto;">
-        <img class="is-rounded" src="/assets/img/profile.jpg" alt="Thomas Foucault">
+        <img class="is-rounded" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="Thomas Foucault">
         </figure>
 
         <h1 class="title is-2 mt-5 mb-2">Thomas Foucault</h1>
