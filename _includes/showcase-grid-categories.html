@@ -37,7 +37,7 @@
 
                 {% if item.description %}
                 <div class="content">
-                    {{ item.description | markdownify }}
+                    {{ item.description | replace: "__BASEURL__", site.baseurl | markdownify }}
                 </div>
                 {% endif %}
 

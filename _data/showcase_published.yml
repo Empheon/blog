@@ -10,7 +10,7 @@ items:
       </div>
 
       <a target="_blank" href="https://poki.com/en/g/beast-barber">
-        <img src="{{ '/assets/img/poki-badge_dark.svg' | relative_url }}" alt="Play on Poki" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/poki-badge_dark.svg" alt="Play on Poki" style="height:48px; width:auto;">
       </a>
     image: /assets/img/beast-barber-logo.jpg
     image_ratio: is-1by1
@@ -25,7 +25,7 @@ items:
         <span class="tag is-light"><strong>Release:</strong>&nbsp;August 2025</span>
       </div>
       <a target="_blank" href="https://poki.com/en/g/jetpack-fury">
-        <img src="{{ '/assets/img/poki-badge_dark.svg' | relative_url }}" alt="Play on Poki" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/poki-badge_dark.svg" alt="Play on Poki" style="height:48px; width:auto;">
       </a>
     image: /assets/img/jetpack-fury-logo.jpg
     image_ratio: is-1by1
@@ -43,10 +43,10 @@ items:
       </div>
 
       <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yorfstudio.zdefense">
-        <img src="{{ '/assets/img/google-play-badge.svg' | relative_url }}" alt="Get it on Google Play" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/google-play-badge.svg" alt="Get it on Google Play" style="height:48px; width:auto;">
       </a>
       <a target="_blank" href="https://apps.apple.com/us/app/z-defense-zombie-games/id1628327332">
-        <img src="{{ '/assets/img/app-store-badge.svg' | relative_url }}" alt="Download on the App Store" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/app-store-badge.svg" alt="Download on the App Store" style="height:48px; width:auto;">
       </a>
 
     image: /assets/img/zombie-defense-logo.jpg
@@ -65,10 +65,10 @@ items:
       </div>
 
       <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yorfstudio.zookemon">
-        <img src="{{ '/assets/img/google-play-badge.svg' | relative_url }}" alt="Get it on Google Play" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/google-play-badge.svg" alt="Get it on Google Play" style="height:48px; width:auto;">
       </a>
       <a target="_blank" href="https://apps.apple.com/us/app/zookemon/id1593869420">
-        <img src="{{ '/assets/img/app-store-badge.svg' | relative_url }}" alt="Download on the App Store" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/app-store-badge.svg" alt="Download on the App Store" style="height:48px; width:auto;">
       </a>
     image: /assets/img/zookemon-logo.jpg
     image_ratio: is-1by1
@@ -86,10 +86,10 @@ items:
       </div>
 
       <a target="_blank" href="https://play.google.com/store/apps/details?id=com.yorfstudio.sea">
-        <img src="{{ '/assets/img/google-play-badge.svg' | relative_url }}" alt="Get it on Google Play" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/google-play-badge.svg" alt="Get it on Google Play" style="height:48px; width:auto;">
       </a>
       <a target="_blank" href="https://apps.apple.com/us/app/z-escape-zombie-crowd-shooter/id1556515742">
-        <img src="{{ '/assets/img/app-store-badge.svg' | relative_url }}" alt="Download on the App Store" style="height:48px; width:auto;">
+        <img src="__BASEURL__/assets/img/app-store-badge.svg" alt="Download on the App Store" style="height:48px; width:auto;">
       </a>
     image: /assets/img/z-escape-logo.jpg
     image_ratio: is-1by1
