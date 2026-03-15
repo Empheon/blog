@@ -10,7 +10,7 @@ items:
       </div>
 
       <a target="_blank" href="https://paulkessel.itch.io/alongtherift">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/along-the-rift-logo.jpg
     image_ratio: is-1by1
@@ -26,7 +26,7 @@ items:
       </div>
 
       <a target="_blank" href="https://antoine-ramo.itch.io/rustle">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/rustle-logo.jpg
     image_ratio: is-1by1
@@ -42,7 +42,7 @@ items:
       </div>
 
       <a target="_blank" href="https://pandamnesik.itch.io/pirate-bay">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/pirate-bay-logo.jpg
     image_ratio: is-1by1
@@ -58,7 +58,7 @@ items:
       </div>
 
       <a target="_blank" href="https://raychop.itch.io/mad-mice">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/mad-mice-logo.jpg
     image_ratio: is-1by1
@@ -74,7 +74,7 @@ items:
       </div>
 
       <a target="_blank" href="https://pandamnesik.itch.io/the-carpenter">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/the-carpenter-logo.jpg
     image_ratio: is-1by1
@@ -90,7 +90,7 @@ items:
       </div>
 
       <a target="_blank" href="https://oscarbagger.itch.io/livedierepeat">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/live-die-repeat-logo.jpg
     image_ratio: is-1by1
@@ -106,7 +106,7 @@ items:
       </div>
 
       <a target="_blank" href="https://delvatron.itch.io/flowar">
-        <img src="/assets/img/itchio-badge.svg" alt="Play on Itch.io" style="height:48px; width:auto;">
+        <img src="{{ '/assets/img/itchio-badge.svg' | relative_url }}" alt="Play on Itch.io" style="height:48px; width:auto;">
       </a>
     image: /assets/img/flowar-logo.jpg
     image_ratio: is-1by1
