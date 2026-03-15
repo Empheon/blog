@@ -1,0 +1,19 @@
+title: Other Works
+intro: |- 
+  Other works and projects I've done outside of game development.
+items:
+  - title: Master's Thesis
+    subtitle: Comparing clustering methods for mobile network root cause detection
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Published:</strong>&nbsp;May 2020</span>
+      </div>
+
+      <a target="_blank" href="https://trepo.tuni.fi/handle/10024/121283">
+        Read here
+      </a>
+    image: /assets/img/tuni-thesis.jpg
+    image_ratio: is-1by1
+    link: https://trepo.tuni.fi/handle/10024/121283
+    link_text: Master's Thesis
+    tags: Nokia, Tampere University, Student, Machine Learning

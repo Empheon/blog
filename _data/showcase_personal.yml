@@ -16,7 +16,7 @@ items:
     image_ratio: is-1by1
     link: https://paulkessel.itch.io/alongtherift
     link_text: Along the Rift
-    tags: Student, PC, Unreal Engine
+    tags: CNAM-ENJMIN, Student, PC, Unreal Engine
 
   - title: Rustle
     subtitle: Experience a spooky campfire night with your best friend.
@@ -32,7 +32,7 @@ items:
     image_ratio: is-1by1
     link: https://antoine-ramo.itch.io/rustle
     link_text: Rustle
-    tags: Student, VR, Unreal Engine
+    tags: CNAM-ENJMIN, Student, VR, Unreal Engine
 
   - title: Pirate Bay
     subtitle: A treasure-chest-throwing multiplayer game. 
@@ -64,7 +64,7 @@ items:
     image_ratio: is-1by1
     link: https://raychop.itch.io/mad-mice
     link_text: Mad Mice
-    tags: Student, PC, Unity, Local Multiplayer
+    tags: CNAM-ENJMIN, Student, PC, Unity, Local Multiplayer
 
   - title: The Carpenter
     subtitle: A fun infinite runner where you slide downhill on your butt.
