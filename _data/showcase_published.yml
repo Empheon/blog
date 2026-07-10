@@ -2,11 +2,31 @@ title: Published
 intro: |- 
   Here are the commercial games I worked on.
 items:
+  - title: Monkey Tag IO
+    subtitle: Tag but with monkeys
+    description: |-
+      <div class="tags are-small">
+        <span class="tag is-light"><strong>Release:</strong>&nbsp;June 2026</span>
+        <span class="tag is-light"><strong>Gameplays:</strong>&nbsp;10M+</span>
+        <span class="tag is-light"><strong>Rating:</strong>&nbsp;4.4 ★</span>
+      </div>
+
+      <a target="_blank" href="https://poki.com/en/g/monkey-tag-io">
+        <img src="__BASEURL__/assets/img/poki-badge_dark.svg" alt="Play on Poki" style="height:48px; width:auto;">
+      </a>
+    image: /assets/img/monkey-tag-logo.jpg
+    image_ratio: is-1by1
+    link: https://poki.com/en/g/monkey-tag-io
+    link_text: Monkey Tag IO
+    tags: Petit Kyanpu, Web, Playcanvas, Online Multiplayer
+
   - title: Beast Barber
     subtitle: Giant animals shaver simulator.
     description: |-
       <div class="tags are-small">
         <span class="tag is-light"><strong>Release:</strong>&nbsp;January 2026</span>
+        <span class="tag is-light"><strong>Gameplays:</strong>&nbsp;3M+</span>
+        <span class="tag is-light"><strong>Rating:</strong>&nbsp;4.4 ★</span>
       </div>
 
       <a target="_blank" href="https://poki.com/en/g/beast-barber">
@@ -23,6 +43,8 @@ items:
     description: |-
       <div class="tags are-small">
         <span class="tag is-light"><strong>Release:</strong>&nbsp;August 2025</span>
+        <span class="tag is-light"><strong>Gameplays:</strong>&nbsp;3M+</span>
+        <span class="tag is-light"><strong>Rating:</strong>&nbsp;4.4 ★</span>
       </div>
       <a target="_blank" href="https://poki.com/en/g/jetpack-fury">
         <img src="__BASEURL__/assets/img/poki-badge_dark.svg" alt="Play on Poki" style="height:48px; width:auto;">
