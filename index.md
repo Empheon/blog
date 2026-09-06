@@ -24,7 +24,6 @@ show_sidebar: false
 
         <div class="buttons is-centered mt-4">
         <a class="button is-primary" href="#projects">Games</a>
-        <a class="button is-light" href="/blog/">Blog</a>
         <a class="button is-light" target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/thfoucault">LinkedIn</a>
         <a class="button is-light" href="mailto:thomasfclt@gmail.com">Contact</a>
         </div>
