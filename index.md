@@ -19,7 +19,7 @@ show_sidebar: false
 
         <h1 class="title is-2 mt-5 mb-2">Thomas Foucault</h1>
         <p class="subtitle is-5 mb-4">
-        Game developer building small and playful web games.
+        Game developer building small and playful web games. Open for hire!
         </p>
 
         <div class="buttons is-centered mt-4">
